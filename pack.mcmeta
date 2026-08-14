@@ -1,0 +1,23 @@
+{
+  "pack": {
+    "description": "Matcha Flavoured trim compatibility",
+    "min_format": 88,
+    "max_format": 107
+  },
+  "filter": {
+    "block": [
+      {
+        "namespace": "blasting",
+        "path": "recipe/silver_from_balsting_raw_silver.json"
+      },
+      {
+        "namespace": "blasting",
+        "path": "recipe/steel_alloy.json"
+      },
+      {
+        "namespace": "crafting",
+        "path": "recipe/.*_alloy.json"
+      }
+    ]
+  }
+}
