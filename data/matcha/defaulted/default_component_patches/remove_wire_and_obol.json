@@ -1,0 +1,9 @@
+{
+  "elements": [
+    "minecraft:redstone",
+    "minecraft:emerald"
+  ],
+  "patch": {
+    "!minecraft:provides_trim_material": {}
+  }
+}

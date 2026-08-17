@@ -19,6 +19,7 @@
 	],
 	"rewards": {
 		"recipes": [
+			"crafting:carbon_rich_iron",
 			"matcha:blasting/steel_alloy"
 		]
 	}
